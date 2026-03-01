@@ -1,2 +1,9 @@
 # saysei-base
-Base Components of SaySei System
+
+A brief description of saysei-base.
+
+## Installation
+
+```bash
+pip install saysei-base
+```
